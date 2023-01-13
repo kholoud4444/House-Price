@@ -1,5 +1,5 @@
 
-# house-price 
+# House-Price Prediction
 
 
 > using Machine learning to predict house price from inputs 
